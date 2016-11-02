@@ -21,7 +21,7 @@ public class Human {
     }
 
     public static void main(String[] args) {
-        Human putte = new Human(25,"daviduts");
+        Human putte = new Human(25,"davidutsasdadasd");
         putte.getAge();
         putte.getName();
         System.out.println(putte.toString());
